@@ -71,5 +71,4 @@ Licensed under WapSecure Incoepration incase you want to use it for production p
 
 # Resources
 
-wwww.wapsecure.ng
-# Acknowledgement
+wwww.wapsecureonline.com
